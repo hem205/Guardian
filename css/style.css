@@ -1,3 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300;400;500;600;700&display=swap');
+
 body{
-    background-color: goldenrod;
+    background-color: rgb(72, 45, 111);
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    background-color: rgb(8, 63, 109);
+    padding: 20px;
+}
+
+header img{
+    width: 300px;
+    height: 300px;
+    border: 10px solid rgb(72, 45, 111);
+    border-radius: 50%;
+}
+
+header h1{
+  font-family: "Cormorant Unicase", serif;
+  font-weight: 500;
+  font-style: normal;
+    font-size: 75px;
+    text-transform: uppercase;
+    margin: 10px 0 10px 0;
+    color: rgb(215, 183, 0);
 }
