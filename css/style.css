@@ -22,8 +22,8 @@ header .pfp{
     border-radius: 50%;
     background-image: url('./../IMG/guardian\ pfp.jpeg');
     background-repeat: no-repeat;
-    background-position: -190px 0px;
-    background size: 100%;
+    background-position: 0px 0px;
+    background-size: 100%;
     margin: 0 auto;
 }
 
