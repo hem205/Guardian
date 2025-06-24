@@ -85,3 +85,15 @@ a:hover{
 a:active{
     color:orangered
 }
+
+footer{
+    background-color:rgb(8, 63, 109);
+    padding: 40px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+footer .content{
+      width: 800px;
+      margin: 0 auto;
+}
