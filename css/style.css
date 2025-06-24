@@ -2,6 +2,7 @@
 
 body{
     background-color: rgb(72, 45, 111);
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
 
 html, body{
@@ -27,7 +28,7 @@ header .pfp{
     margin: 0 auto;
 }
 
-header h1{
+h1{
   font-family: "Cormorant Unicase", serif;
   font-weight: 500;
   font-style: normal;
@@ -35,4 +36,52 @@ header h1{
     text-transform: uppercase;
     margin: 10px 0 10px 0;
     color: rgb(215, 183, 0);
+}
+
+h2, p, ul, ol{
+    color: rgb(255, 255, 255);
+}
+
+p.caption{
+    font-size: 16px;
+    color: aliceblue;
+    font-style: oblique;
+    margin: 0;
+}
+
+p, ul, ol{
+    font-size: 19px;
+    line-height: 30px;
+}
+
+a{
+    color: rgb(215, 183, 0);
+}
+
+h2{  
+    font-family: "Cormorant Unicase", serif;
+    font-weight: 250;
+    font-style: normal;
+    font-size: 50px;
+    text-transform: uppercase;
+    margin: 10px 0 10px 0;
+    color: rgb(215, 183, 0);
+
+}
+
+main{
+    width: 800px;
+    margin: auto;
+}
+
+main img{
+    max-width: 100%;
+}
+
+a:hover{
+    color:rgb(255, 217, 0)
+}
+
+a:active{
+    color:orangered
 }
