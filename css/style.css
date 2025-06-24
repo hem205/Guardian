@@ -28,6 +28,13 @@ header .pfp{
     margin: 0 auto;
 }
 
+header .pfp.ironeye {
+    background-image: url(./../IMG/ironeyepfp.jpg);
+    background-position: 0px 0px;
+    background-size: 100%;
+    border: 10px solid rgb(15, 79, 14);
+}
+
 h1{
   font-family: "Cormorant Unicase", serif;
   font-weight: 500;
