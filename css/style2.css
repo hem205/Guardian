@@ -146,7 +146,7 @@ p{
   body {
     background-image: url(./../IMG/chainmail-mobile.png), linear-gradient(rgb(72, 45, 111), rgb(8, 63, 109));
     background-repeat: no-repeat; /* adjust as needed */
-    background-size:auto; /* adjust as needed */
+    background-size:cover; /* adjust as needed */
     background-position:right; /* adjust as needed */
   }
 }
